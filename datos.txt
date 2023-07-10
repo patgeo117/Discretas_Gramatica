@@ -1,0 +1,20 @@
+Vocabulario:
+A
+B
+a
+b
+S
+
+Términos finales:
+a
+b
+
+Símbolo inicial:
+S
+
+Reglas de producción:
+S=AbBa
+A=a
+B=b
+S=ab
+S=a
